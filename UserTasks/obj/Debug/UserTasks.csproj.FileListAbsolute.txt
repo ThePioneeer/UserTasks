@@ -1,0 +1,46 @@
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\bin\Debug\UserTasks.exe.config
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\bin\Debug\UserTasks.exe
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\bin\Debug\UserTasks.pdb
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\UserTasks.csprojResolveAssemblyReference.cache
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\MainWindow.g.cs
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\App.g.cs
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\UserTasks_MarkupCompile.cache
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\UserTasks_MarkupCompile.lref
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\MainWindow.baml
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\UserTasks.g.resources
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\UserTasks.Properties.Resources.resources
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\UserTasks.csproj.GenerateResource.Cache
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\UserTasks.exe
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\UserTasks.pdb
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\bin\Debug\System.Data.SQLite.dll
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\bin\Debug\System.Data.SQLite.xml
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\Page1.g.cs
+c:\users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\Page1.baml
+C:\Users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\UserManager.g.cs
+C:\Users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\UserManager.baml
+C:\Users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\Ylesanded.g.cs
+C:\Users\opilane\documents\visual studio 2015\Projects\UserTasks\UserTasks\obj\Debug\Ylesanded.baml
+C:\Users\Uko\Desktop\UserTasks\UserTasks\bin\Debug\UserTasks.exe.config
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\UserTasks.exe
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\UserTasks.pdb
+C:\Users\Uko\Desktop\UserTasks\UserTasks\bin\Debug\UserTasks.exe
+C:\Users\Uko\Desktop\UserTasks\UserTasks\bin\Debug\UserTasks.pdb
+C:\Users\Uko\Desktop\UserTasks\UserTasks\bin\Debug\System.Data.SQLite.dll
+C:\Users\Uko\Desktop\UserTasks\UserTasks\bin\Debug\System.Data.SQLite.xml
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\UserTasks.csprojResolveAssemblyReference.cache
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\MainWindow.g.cs
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\Page1.g.cs
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\UserManager.g.cs
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\Ylesanded.g.cs
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\App.g.cs
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\UserTasks_MarkupCompile.cache
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\UserTasks_MarkupCompile.lref
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\MainWindow.baml
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\Page1.baml
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\UserManager.baml
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\Ylesanded.baml
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\UserTasks.g.resources
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\UserTasks.Properties.Resources.resources
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\UserTasks.csproj.GenerateResource.Cache
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\LisaYl.g.cs
+C:\Users\Uko\Desktop\UserTasks\UserTasks\obj\Debug\LisaYl.baml

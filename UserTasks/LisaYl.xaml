@@ -1,0 +1,28 @@
+﻿<Window x:Class="UserTasks.LisaYl"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserTasks"
+        mc:Ignorable="d"
+        Title="Lisa Ülesanne" Height="200" Width="300">
+    <Grid Margin="5,5,5,5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition Height="100"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Grid.Row="0" Orientation="Horizontal">
+            <Label Content="Tähtaeg  "/>
+            <TextBox Name="TextBoxTahtaeg" Width="130" />
+        </StackPanel>
+
+        <StackPanel Grid.Row="1" Orientation="Horizontal" Margin="0, 10, 0, 0">
+            <Label Content="Ülesanne"/>
+            <TextBox Name="TextBlockYlesanne" Width="210" TextWrapping="Wrap"/>
+        </StackPanel>
+        
+        <Button Grid.Row="2" Content="Lisa" Width="75" HorizontalAlignment="Right" Margin="0,5,15,0" Click="Button_Click"/>
+    </Grid>
+</Window>

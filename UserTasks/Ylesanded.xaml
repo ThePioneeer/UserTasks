@@ -1,0 +1,51 @@
+﻿<Window x:Class="UserTasks.Ylesanded"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UserTasks"
+        mc:Ignorable="d"
+        Title="Ülesanded" Height="400" Width="1063">
+    <Grid Margin="5,5,5,5">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="300"/>
+            <RowDefinition Height="30"/>
+        </Grid.RowDefinitions>
+        
+        <ListView Name="ListYlesanded" Grid.Row="0"
+                  Margin="5, 5, 5, 5"
+                  ItemsSource="{Binding}">
+            <ListView.Resources>
+                <Style TargetType="ListViewItem">
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding Path=aktiveeritud}" Value="Jah">
+                            <Setter Property="Background" Value="Red"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding Path=valmis}" Value="Jah">
+                            <Setter Property="Background" Value="Green"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </ListView.Resources>
+            <ListView.View>                
+                    <GridView>
+                    <GridViewColumn Width="75" Header="Kuupäev"  DisplayMemberBinding="{Binding Path=kuupaev}"></GridViewColumn>
+                    <GridViewColumn Width="75" Header="Tähtaeg"  DisplayMemberBinding="{Binding Path=tahtaeg}"></GridViewColumn>
+                    <GridViewColumn Width="650" Header="Ülesanne"  DisplayMemberBinding="{Binding Path=ulesanne}"></GridViewColumn>
+                    <GridViewColumn Width="50" Header="Lisas"  DisplayMemberBinding="{Binding Path=lisaja}"></GridViewColumn>
+                    <GridViewColumn Width="55" Header="Aktiveeris"  DisplayMemberBinding="{Binding Path=aktiveerija}"></GridViewColumn>
+                    <GridViewColumn Width="80" Header="Aktiveeritud"  DisplayMemberBinding="{Binding Path=aktiveeritud}"></GridViewColumn>
+                    <GridViewColumn Width="50" Header="Valmis"  DisplayMemberBinding="{Binding Path=valmis}"></GridViewColumn>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <StackPanel Orientation="Horizontal" Grid.Row="1">            
+            <Button Content="Lisa ülesanne" Name="ButtonLisaYl" Click="ButtonLisaYl_Click" Margin="5,0,0,0"/>
+            <Button Content="Kustuta" Name="ButtonDelete" Click="ButtonDelete_Click" Margin="5,0,0,0"/>
+            <Button Content="Aktiveeri" Name="ButtonAktiveeri" Margin="5, 0, 0, 0" Click="ButtonAktiveeri_Click"/>
+            <Button Content="Valmis" Name="ButtonValmis" Click="ButtonValmis_Click" Margin="5,0,0,0"/>
+            <Button Content="Värskenda" Name="ButtonRefresh" Click="ButtonRefresh_Click" Margin="5,0,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>
